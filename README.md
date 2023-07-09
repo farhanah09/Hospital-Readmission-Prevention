@@ -8,3 +8,10 @@ The code in this repository implements various machine learning and data analysi
 ## Data Source - 
 https://doi.org/10.1155/2014/781670
 The data is also split into training and testing CSV files and is available in the dataset folder
+
+## Requirements
+To install the requirements for the code, run the following command - 
+
+```
+pip install -r requirements.txt
+```
