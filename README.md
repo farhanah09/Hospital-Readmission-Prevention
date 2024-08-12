@@ -1,3 +1,5 @@
+<a href="https://app.commanddash.io/agent?github=https://github.com/farhanah09/Hospital-Readmission-Prevention"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
+
 # Hospital-Readmission-Prevention
 This GitHub repository contains the code for an algorithm developed to lower hospital readmission rates by implementing a telehealth system for the right patients. The algorithm aims to provide remote healthcare services to patients, reducing the need for frequent hospital visits and improving patient outcomes. Additionally, the algorithm is designed to save costs for the hospital by optimizing resource allocation and prioritizing high-risk patients for telehealth interventions.
 
